@@ -1,6 +1,4 @@
 import streamlit as st
-import numpy as np
-import pandas as pd
 from st_functions import st_button, load_css
 from PIL import Image
 
